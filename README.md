@@ -8,3 +8,5 @@ Revision #002
 - font color
 - font spacing
 - Separation of veritcal line from paragraph
+  
+Revision #003
