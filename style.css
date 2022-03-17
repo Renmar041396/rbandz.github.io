@@ -80,7 +80,7 @@ ol
 /*Name*/
 .auth-name-header
 {
-    margin:20px auto;
+    margin:50px auto;
     text-align: center;
     color: rgb(131, 131, 131);
 }
@@ -89,12 +89,18 @@ p
 {
     margin:20px auto;
     font-weight: bold;
+    /*Recomended*/
+    line-height: 1.6;
 }
 /*Article*/
 .current--work--container
 {
     background-color: bisque;
     padding:20px;
+}
+h5
+{
+    color:rgb(105, 105, 105);
 }
 .education--container
 {
