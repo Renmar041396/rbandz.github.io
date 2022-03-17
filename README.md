@@ -10,3 +10,5 @@ Revision #002
 - Separation of veritcal line from paragraph
   
 Revision #003
+  - Adding work content / text
+  - Work layout 
