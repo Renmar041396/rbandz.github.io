@@ -98,6 +98,10 @@ p
     background-color: bisque;
     padding:20px;
 }
+.article-banner
+{
+    margin:30px auto;
+}
 h5
 {
     color:rgb(105, 105, 105);
@@ -138,7 +142,7 @@ div.footer
 }
 .img-scale
 {
-    margin:10px;
+    margin:20px;
 }
 .dost
 {
