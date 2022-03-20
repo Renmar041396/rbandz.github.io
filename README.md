@@ -10,7 +10,11 @@ Revision #002
 - font color
 - font spacing
 - Separation of veritcal line from paragraph
-  
+
 Revision #003
   - Adding work content / text
-  - Work layout 
+    #003.1
+    - Work layout 
+    #003.2
+    - Change Background color to blue
+    - Master, will revert the changes
