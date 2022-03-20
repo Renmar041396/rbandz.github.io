@@ -13,3 +13,6 @@ Revision #003
   - Adding work content / text
     #003.1
     - Work layout 
+    #003.2
+    - Change Background color to blue
+    - Master, will revert the changes
