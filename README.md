@@ -1,3 +1,5 @@
+domain name: https://rbanz.netlify.app
+
 # MyResume
 Revision #001
 - Adjusting of font size
